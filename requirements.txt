@@ -1,0 +1,4 @@
+dash
+openai
+requests
+python-dotenv
